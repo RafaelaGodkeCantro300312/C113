@@ -1,0 +1,17 @@
+body {
+    background-color:rgb(230, 193, 247);
+    text-align:center;
+}
+#h3 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+#button, #button1 {
+    background-color:rgb(208, 146, 236);
+    border-radius:5px;
+    border-width:1.5px;
+}
+input {
+    background-color:rgb(223, 161, 252);
+    border-radius:5px;
+    border-width:1.5px;
+}
